@@ -38,11 +38,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research focuses on understanding Earth's geological processes through mineral geochemistry, isotope analysis, and data-driven approaches.　 
+        
+        I have recently started exploring the geochemistry of seafloor mineral resources, while I continue to work on igneous petrology and the geological history of the solid Earth and surface environments.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I'm also interested in materials science, where I apply analytical chemistry and data analysis techniques shared with Earth sciences.
 
-        Please reach out to collaborate 😃
+        I'm always open to new ideas and interdisciplinary collaborations. Feel free to reach out!
     design:
       columns: '1'
   - block: collection
@@ -56,25 +58,7 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
+
   - block: collection
     id: news
     content:
