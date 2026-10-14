@@ -23,7 +23,8 @@ abstract: "Detrital monazite geochronology and geochemistry provide crucial cons
 tags:
   - Monazite
   - Crustal Evolution
-  - Boring Billion
+  - Geochemistry
+  - Geochronology
 
 
 featured: true
