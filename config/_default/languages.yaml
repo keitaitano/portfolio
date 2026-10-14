@@ -7,7 +7,10 @@ en:
   locale: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
-
+ja:
+  languageCode: ja
+  contentDir: content/ja
+  title: "氏名 - 研究ポートフォリオ"
 # Uncomment the lines below to configure your website in a second language.
 #zh:
 #  locale: zh-Hans
