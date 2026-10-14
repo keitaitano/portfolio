@@ -16,16 +16,15 @@ publication: "*Chemical Geology*, 669, 122361"
 publication_short: "*Chemical Geology*"
 
 peer_reviewed: true
-open_access: false
+open_access: true
 
 abstract: "Detrital monazite geochronology and geochemistry provide crucial constraints on the crustal evolution and metamorphic history of continental landmasses. In this study, we investigate detrital monazites to reconstruct the tectonic and magmatic evolution of the North and South American continents during the 'Boring Billion' period (1.8–0.8 Ga)."
 
 tags:
-  - Detrital Monazite
-  - Geochronology
+  - Monazite
   - Crustal Evolution
   - Boring Billion
-  - Geochemistry
+
 
 featured: true
 
