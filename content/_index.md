@@ -37,13 +37,14 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: |
+      text: | "
       <div style="max-width: 900px; width: 100%; margin: 0 auto;">
         My research focuses on understanding Earth's geological processes through mineral geochemistry, isotope analysis, and data-driven approaches</p>
         I have recently started exploring the geochemistry of seafloor mineral resources, while I continue to work on igneous petrology and the geological history of the solid Earth and surface environments.</p>
         I'm also interested in materials science, where I apply analytical chemistry and data analysis techniques shared with Earth sciences.</p>
         I'm always open to new ideas and interdisciplinary collaborations. Feel free to reach out!
         </div>
+      "
     design:
       columns: '1'
     
