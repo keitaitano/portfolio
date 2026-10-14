@@ -18,4 +18,13 @@ education:
     - course: Department of Earth and Planetary Science, Doctor Course
       institution: The University of Tokyo
       year: 2014-2019
+
+profiles: # Hugo Bloxの最新仕様では profiles: または social: と表記されます
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=VrTRarsAAAAJ&hl=ja&oi=ao
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/
+---
 ---
