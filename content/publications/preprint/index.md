@@ -1,88 +1,47 @@
 ---
-title: "An example preprint / working paper"
+title: "A long-lived mafic magma reservoir: Zircon evidence from a hornblende peridotite in the Hida Belt, Japan"
 authors:
-- me
-date: "2019-04-07T00:00:00Z"
+  - admin
+  - Mami Takehara
+  - Kenji Horie
+  - Tsuyoshi Iizuka
+  - Ikuya Nishio
+  - Tomoaki Morishita
+date: "2024-01-01T00:00:00Z"
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# 論文の掲載情報
+publication_types: ["article-journal"]
+publication: "*Geology*, 52(1), 3–6"
+publication_short: "*Geology*"
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["article"]
+peer_reviewed: true
+open_access: false
 
-# Publication metadata — structured fields used by citation styles and BibTeX export.
-# Preprints typically have no formal venue; omit `publication` until the work is accepted.
+abstract: "The two zircon U–Pb age ranges of a hornblende peridotite from the Hida Belt reveal that the mafic magma reservoir can be sustained for ~10^7 yr, consistent with the time scale of felsic reservoirs. The contrasting geochemical characteristics between the older and younger zircons suggest that mantle-derived mafic magmas played a key role in maintaining the long-lived reservoir and continental crust evolution."
 
-peer_reviewed: false
-open_access: true
-license: CC-BY-4.0
-
-funding:
-  - funder: "Wellcome Trust"
-    grant: "WT-219123/Z/19/Z"
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: "Zircon geochronological and geochemical evidence from a hornblende peridotite in the Hida Belt, Japan, revealing the long-lived nature (~10^7 years) of mafic magma reservoirs."
 
 tags:
-- Large Language Models
+  - Zircon
+  - Geochronology
+  - Mafic Magma
+  - Hida Belt
+  - Igneous Petrology
 
 featured: true
 
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
-
+# 外部リンクボタン
 links:
-- type: preprint
-  provider: arxiv
-  id: 1512.04133v1
-- type: code
-  url: https://github.com/HugoBlox/kit
-- type: slides
-  url: https://www.slideshare.net/
-- type: dataset
-  url: "#"
-- type: poster
-  url: "#"
-- type: source
-  url: "#"
-- type: video
-  url: https://youtube.com
-- type: custom
-  label: Custom Link
-  url: http://example.org
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/projects/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: ""
+  - name: DOI
+    url: https://doi.org/10.1130/G51560.1
+  - name: Publisher Page
+    url: https://pubs.geoscienceworld.org/gsa/geology/article/52/1/3/628564/A-long-lived-mafic-magma-reservoir-Zircon-evidence
 ---
 
-This work is driven by the results in my [previous paper](/publications/conference-paper/) on LLMs.
+### Overview
 
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
+This paper provides zircon U–Pb age and geochemical constraints on the longevity of mafic magma reservoirs, based on a hornblende peridotite from the Hida Belt, Japan.
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+### Key Highlights
+- **Magma Reservoir Longevity:** Zircon age ranges demonstrate that mafic magma reservoirs can persist for up to $\sim 10^7$ years.
+- **Crustal Evolution:** Highlights the role of mantle-derived mafic magmas in sustaining magma systems and shaping island arc crustal evolution.
