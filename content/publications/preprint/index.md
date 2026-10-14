@@ -1,13 +1,16 @@
 ---
 title: "A long-lived mafic magma reservoir: Zircon evidence from a hornblende peridotite in the Hida Belt, Japan"
 authors:
-  - Keita Itano
+  - me
   - Mami Takehara
   - Kenji Horie
   - Tsuyoshi Iizuka
   - Ikuya Nishio
   - Tomoaki Morishita
 date: "2023-10-11T00:00:00Z"
+
+
+toc: false
 
 # 論文の掲載情報
 publication_types: ["article-journal"]
