@@ -5,7 +5,7 @@ authors:
   - Kazumi Yoshiya
   - Shigenori Maruyama
   - Tsuyoshi Iizuka
-date: "2024-12-01T00:00:00Z"
+date: "2024-12-05T00:00:00Z"
 
 # 目次（On this page）を非表示
 toc: false
