@@ -3,6 +3,9 @@ title: 'Projects'
 date: 2024-05-19
 type: landing
 
+# このページ全体を下書き状態にしてサイトから隠す設定
+draft: true
+
 # Page sections
 sections:
   - block: collection
