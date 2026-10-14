@@ -1,8 +1,8 @@
 ---
-title: "Your Name"
-role: "PhD Student / Researcher"
+title: "Keita Itano"
+role: "Researcher"
 organizations:
-  - name: "Your University"
-    url: "https://www.example.ac.jp"
-bio: "My research interests include AI and Computer Vision."
+  - name: "Japan Agency for Marine-Earth Science and Technology"
+    url: "https://www.jamstec.go.jp/e/"
+bio: "My research interests include Geochemistry and Machine Learning."
 ---
