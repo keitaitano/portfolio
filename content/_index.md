@@ -46,8 +46,6 @@ sections:
 
         I'm always open to new ideas and interdisciplinary collaborations. Feel free to reach out!
     
-    design:
-      css_class: 'max-w-4xl mx-auto px-4'
   - block: collection
     id: papers
     content:
