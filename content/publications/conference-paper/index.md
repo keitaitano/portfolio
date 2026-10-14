@@ -1,110 +1,42 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+title: "Detrital monazite evidence for crustal evolution of the North and South American continents during the Boring Billion"
 authors:
   - me
-  - Robert Ford
+  - Kazumi Yoshiya
+  - Shigenori Maruyama
+  - Tsuyoshi Iizuka
+date: "2024-12-01T00:00:00Z"
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# 目次（On this page）を非表示
+toc: false
 
-date: '2013-07-01T00:00:00Z'
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
-
-# Publication metadata — structured fields used by citation styles and BibTeX export.
-publication:
-  name: "Proceedings of the HugoBlox Kit Conference"
-  short_name: "ICW"
+# 論文の掲載情報
+publication_types: ["article-journal"]
+publication: "*Chemical Geology*, 669, 122361"
+publication_short: "*Chemical Geology*"
 
 peer_reviewed: true
-open_access: true
-license: CC-BY-4.0
+open_access: false
 
-# Awards, honors, and recognitions. Surfaced as badges on the page and in listings.
-awards:
-  - name: "Best Paper Award"
-    level: winner
-    note: "Top 5 of 8000 submissions"
-  - name: "Oral Presentation"
-    level: selected
-
-# Funders and grants. Required by many funders for compliance reporting.
-funding:
-  - funder: "National Science Foundation"
-    grant: "NSF-2401234"
-  - funder: "European Research Council"
-    grant: "ERC-StG-101234"
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: "Detrital monazite geochronology and geochemistry provide crucial constraints on the crustal evolution and metamorphic history of continental landmasses. In this study, we investigate detrital monazites to reconstruct the tectonic and magmatic evolution of the North and South American continents during the 'Boring Billion' period (1.8–0.8 Ga)."
 
 tags:
-  - Large Language Models
+  - Detrital Monazite
+  - Geochronology
+  - Crustal Evolution
+  - Boring Billion
+  - Geochemistry
 
-# Display this page in the Featured widget?
 featured: true
 
-# Standard identifiers for auto-linking
-hugoblox:
-  ids:
-    doi: 10.5555/123456
-
-# Custom links
+# 外部リンクボタン
 links:
-  - type: pdf
-    url: ""
-  - type: code
-    url: https://github.com/HugoBlox/kit
-  - type: dataset
-    url: https://github.com/HugoBlox/kit
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: https://github.com/HugoBlox/kit
-  - type: video
-    url: https://youtube.com
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/projects/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: ""
+  - name: DOI
+    url: https://doi.org/10.1016/j.chemgeo.2024.122361
+  - name: Publisher Page
+    url: https://www.sciencedirect.com/science/article/pii/S0009254124004418
 ---
 
-> [!NOTE]
-> Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-
-> [!NOTE]
-> Create your slides in Markdown - click the _Slides_ button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+### Key Highlights
+- **Crustal Evolution:** Reconstructs the tectonic and magmatic history of North and South America during the middle Proterozoic ("Boring Billion") using detrital monazite proxy.
+- **Multi-proxy Approach:** Combines U–Pb geochronology and trace element geochemistry of detrital monazites to trace metamorphic and igneous thermal events.
