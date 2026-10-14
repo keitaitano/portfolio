@@ -46,7 +46,7 @@ sections:
 
         I'm always open to new ideas and interdisciplinary collaborations. Feel free to reach out!
     design:
-      columns: '1'
+      columns: '2'
   - block: collection
     id: papers
     content:
