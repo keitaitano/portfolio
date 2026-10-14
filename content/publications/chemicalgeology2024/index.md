@@ -12,7 +12,7 @@ toc: false
 
 # 論文の掲載情報
 publication_types: ["article-journal"]
-publication: "*Chemical Geology*, 669, 122361"
+publication: "*Chemical Geology*, 669, 122361 (2024)"
 publication_short: "*Chemical Geology*"
 
 peer_reviewed: true
