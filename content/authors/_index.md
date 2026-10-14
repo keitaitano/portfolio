@@ -1,9 +1,8 @@
 ---
-# To publish author profile pages, remove all the `build` and `cascade` settings below.
-build:
-  render: never
-cascade:
-  build:
-    render: never
-    list: always
+title: "Your Name"
+role: "PhD Student / Researcher"
+organizations:
+  - name: "Your University"
+    url: "https://www.example.ac.jp"
+bio: "My research interests include AI and Computer Vision."
 ---
