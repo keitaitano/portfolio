@@ -288,10 +288,3 @@ hugoblox:
     # Affiliate referral code for rewards program
     # Join affiliate program: https://hugoblox.com/affiliates
     affiliate_code: ""
-
-
-    # --- カラーテーマ設定 ---
-  appearance:
-    theme: minimal              # 配色パターン (ocean, emerald, rose, violet, minimal など)
-    mode: auto               # light, dark, auto
-    show_theme_chooser: false # 右上の Default メニューを消す場合は false
