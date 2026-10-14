@@ -2,7 +2,7 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Keita Itano
+  display: Keita Itano
   given: Keita
   family: Itano
   alternate: '板野敬太'  # Example: 王伟
