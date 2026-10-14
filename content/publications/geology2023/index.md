@@ -14,7 +14,7 @@ toc: false
 
 # 論文の掲載情報
 publication_types: ["article-journal"]
-publication: "*Geology*, 52(1), 3–6"
+publication: "*Geology*, 52(1), 3–6 (2024)"
 publication_short: "*Geology*"
 
 peer_reviewed: true
