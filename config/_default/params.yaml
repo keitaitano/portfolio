@@ -21,8 +21,8 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: ""
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox
-      Kit. Easily create your personal academic website."
+    description: "Research portfolio of Keita Itano, featuring publications and findings across Earth and Planetary Sciences, Geochemistry, Geochronology, and Machine Learning.
+    板野敬太の研究ポートフォリオ。地球惑星科学、地球化学、地球年代学、機械学習の応用などの研究成果を掲載"
 
     sharing_image: "site.png"
     
