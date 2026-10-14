@@ -45,9 +45,10 @@ sections:
         I'm also interested in materials science, where I apply analytical chemistry and data analysis techniques shared with Earth sciences.
 
         I'm always open to new ideas and interdisciplinary collaborations. Feel free to reach out!
+    
     design:
-      columns: '1'
-    css_class: 'max-w-4xl mx-auto px-4'
+      # columns: '1'
+      css_class: 'max-w-4xl mx-auto px-4'
   - block: collection
     id: papers
     content:
