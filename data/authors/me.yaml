@@ -42,21 +42,21 @@ interests:
   - Geochemistry
   - Machine Learning
 
-#education:
- # - degree: Ph.D.
-  #  institution: The University of Tokyo
-  #  start: 2016-04-01
-  #  end: 2019-03-31
-  #  summary: |
-  #   Monazite as a tracer of crustal evolution
-  #- degree: M.Sc.
-   # institution:  The University of Tokyo
-   # start: 2014-04-01
-   # end: 2016-03-31
-  #- degree: B.Sc. 
-  #  institution: The University of Tokyo
-  #  start: 2010-04-01
-   # end: 2014-03-31
+education:
+  - degree: Ph.D.
+    institution: The University of Tokyo
+    start: 2016-04-01
+    end: 2019-03-31
+    summary: |
+     Monazite as a tracer of crustal evolution
+  - degree: M.Sc.
+    institution:  The University of Tokyo
+    start: 2014-04-01
+    end: 2016-03-31
+  - degree: B.Sc. 
+    institution: The University of Tokyo
+    start: 2010-04-01
+    end: 2014-03-31
 
 experience:
   - role: Research Scientist
