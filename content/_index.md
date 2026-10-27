@@ -13,6 +13,11 @@ sections:
       username: me
       text: ''
 
+      headings:
+        about: ''
+        education: false
+        interests: false
+
       # Name heading sizing to accommodate long or short names
       name:
         size: md # Options: xs, sm, md, lg (default), xl
