@@ -1,30 +1,96 @@
----
-title: "板野敬太 / Keita Itano"
-role: "副主任研究員"
-organizations:
-  - name: "Japan Agency for Marine-Earth Science and Technology"
-    url: "https://www.jamstec.go.jp/e/"
-bio: "My research interests include Geochemistry and Machine Learning."
+schema: hugoblox/author/v1
+slug: admin
+superuser; ture
+is_owner: true
+name:
+  display: Keita Itano
+  given: Keita
+  family: Itano
+  alternate: '板野敬太'  # Example: 王伟
+  pronunciation: ''  # Example: Wáng Wěi
+  pronouns: he/him
+postnominals:
+  - PhD
+status:
+  #icon: "☕️"
+role: Research Scientist
+bio: |
+  I am a Research Scientist at JAMSTEC, specializing in geochemistry and the application of machine learning to Earth sciences.
+  My research focuses on mineral geochemistry, isotope analysis, and data-driven approaches to understanding geological processes.
+  I am passionate about integrating advanced analytical techniques with machine learning to explore Earth's history and mineral resources.
 
-# 興味のある研究分野（箇条書き）
+affiliations:
+  - name: Japan Agency for Marine-Earth Science and Technology/JAMSTEC
+    url: https://www.jamstec.go.jp/j/
+
+links:
+  - icon: at-symbol
+    url: mailto:k.itano@jamstec.go.jp
+    label: E-mail Me
+  - icon: brands/x
+    url: https://x.com/rubeus_k
+  - icon: brands/github
+    url: https://github.com/keitaitano
+  - icon: brands/linkedin
+    url: https://jp.linkedin.com/in/keita-itano-58a475294
+  - icon: academicons/google-scholar
+    url:  https://scholar.google.co.jp/citations?user=VrTRarsAAAAJ&hl=ja&oi=ao
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0003-2382-8698
+
 interests:
+  - Geochronology
   - Geochemistry
-  - Petrology
-  - Machien Learning
+  - Machine Learning
 
-# 学歴・経歴
 education:
-  courses:
-    - course: Department of Earth and Planetary Science, Doctor Course
-      institution: The University of Tokyo
-      year: 2014-2019
+  - degree: Ph.D.
+    institution: The University of Tokyo
+    start: 2016-04-01
+    end: 2019-03-31
+    summary: |
+      Monazite as a tracer of crustal evolution
+  - degree: M.Sc.
+    institution:  The University of Tokyo
+    start: 2014-04-01
+    end: 2016-03-31
+  - degree: B.Sc. 
+    institution: The University of Tokyo
+    start: 2010-04-01
+    end: 2014-03-31
 
-profiles: # Hugo Bloxの最新仕様では profiles: または social: と表記されます
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=VrTRarsAAAAJ&hl=ja&oi=ao
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/
----
----
+experience:
+  - role: Research Scientist
+    org: JAMSTEC, Japan
+    start: 2026-04-01
+    summary: |
+      Starting to conduct geochemical research on seafloor mineral resources.
+    button:
+      text: View portfolio
+      url: /
+      icon: hero/arrow-down-tray
+  - role: Assistant Professor
+    org: Akita Univeristy, Japan
+    start: 2021-10-01
+    end: 2026-3-31
+    summary: |
+     Worked on geochemistry and initiated collaborations with materials science researchers, using machine learning as a bridge.
+  - role: Postdoctoral Researcher
+    org: Universida de Granada, Spain
+    start: 2022-10-01
+    end: 2024-9-31
+    summary: |
+      Worked on Sr isotope microanalysis.
+  - role: Postdoctoral Researcher
+    org: Kanazawa University, Japan
+    start: 2019-4-01
+    end: 2021-9-31
+    summary: |
+     Worked on igneous petrology and applications of machine learning.
+
+awards:
+  - title: Young Scientist Award
+    awarder: Geochemical Society of Japan
+    date: "2024-09"
+    summary: Awarded for work on crustal evolution using microanalyses of accessory mineral
+    icon: hero/trophy
