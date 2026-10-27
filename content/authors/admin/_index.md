@@ -1,5 +1,6 @@
 ---
 title: "Keita Itano"
+superuser: true
 role: "Researcher"
 organizations:
   - name: "Japan Agency for Marine-Earth Science and Technology"
