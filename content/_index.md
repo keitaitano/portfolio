@@ -15,8 +15,8 @@ sections:
 
       headings:
         about: ''
-        education: false
-        interests: false
+        education: ''
+        interests: ''
 
       # Name heading sizing to accommodate long or short names
       name:
