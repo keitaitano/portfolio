@@ -24,23 +24,6 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-
-      <style>
-      /* resume-biography-3 の学歴（Education）および Interests のカード枠を強制非表示 */
-      #bio .grid > div:has(.bi-mortarboard),
-      #bio .grid > div:has(svg[data-icon="graduation-cap"]),
-      #bio .grid > div:has(svg[data-icon="book-open"]),
-      #bio .grid > div:has(.bi-lightbulb),
-      #bio [data-block="education"],
-      #bio [data-block="interests"] {
-        display: none !important;
-      }
-      
-      /* 左右2段のうち、右側の自己紹介テキストエリアを全幅（100%）に広げる */
-      #bio .col-span-2 {
-        grid-column: span 3 / span 3 !important;
-      }
-      </style>
     
   - block: markdown
     content:
