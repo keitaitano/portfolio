@@ -6,25 +6,12 @@ date: 2026-10-14
 type: landing
 
 sections:
-  - block: biography
+  - block: resume-biography
     id: bio
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: ''
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: ''
-        url: uploads/resume.pdf
-      headings:
-        about: ''
-        education: false
-        interests: ''
-    design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
-      background:
-        gradient_mesh:
-          enable: true
 
       # Name heading sizing to accommodate long or short names
       name:
