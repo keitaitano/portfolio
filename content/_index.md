@@ -10,7 +10,7 @@ sections:
     id: bio
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: me_front
+      username: me
       text: ''
 
       headings:
