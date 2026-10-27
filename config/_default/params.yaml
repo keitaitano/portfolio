@@ -50,7 +50,6 @@ hugoblox:
       surface-bg: "#efece4"    # ← カードやヘッダー枠の背景色
       text: "#2d2d2d"          # ← テキスト色（濃いグレー）
     colors_dark: {}
-    colors_dark: {}
     # Optional: Semantic surface color overrides
     surfaces:
       background: ""
