@@ -17,17 +17,17 @@ main:
     url: '/projects/'
     weight: 30
 
-# 日本語メニュー（言語コード .ja を付与）
+# 日本語メニュー
 main.ja:
   - name: 自己紹介
-    url: '/ja/#bio'
+    url: '#bio'          # ← 日本語トップ内にいるなら '#bio' だけでその位置へ飛びます
     weight: 10
   - name: 論文
-    url: '/ja/#papers'
+    url: '#papers'       # ← 同様に '#papers' で飛びます
     weight: 11
   - name: 経歴
-    url: '/ja/experience/'
+    url: 'experience/'   # ← 先頭の '/ja/' や '/' は付けず 'experience/' にします
     weight: 20
   - name: プロジェクト
-    url: '/ja/projects/'
+    url: 'projects/'     # ← 先頭のスラッシュを外します
     weight: 30
