@@ -4,12 +4,17 @@
 
 # Default language
 en:
-  locale: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  languageCode: en-us
+  languageName: English
+  contentDir: content/en
+  weight: 1
+  title: "Keita Itano - Research Portfolio"
+# Second language
 ja:
   languageCode: ja
+  languageName: 日本語
   contentDir: content/ja
+  weight: 2
   title: "板野敬太 - 研究ポートフォリオ"
 # Uncomment the lines below to configure your website in a second language.
 #zh:
