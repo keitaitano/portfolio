@@ -6,7 +6,7 @@ date: 2026-10-14
 type: landing
 
 sections:
-  - block: resume-biography-2
+  - block: resume-biography-3
     id: bio
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -15,8 +15,6 @@ sections:
 
       headings:
         about: ''
-        education: ''
-        interests: ''
 
       # Name heading sizing to accommodate long or short names
       name:
