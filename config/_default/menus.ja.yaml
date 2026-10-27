@@ -1,0 +1,9 @@
+main:
+  - name: Bio
+    url: '/ja/#bio'
+  - name: Papers
+    url: '/ja/#papers'
+  - name: Experience
+    url: '/ja/experience/'
+  - name: Projects
+    url: '/ja/projects/'
