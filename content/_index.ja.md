@@ -18,7 +18,7 @@ sections:
         url: uploads/resume.pdf
       headings:
         about: '自己紹介'
-        education: '経歴'
+        education: false
         interests: '専門分野'
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
