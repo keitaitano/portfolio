@@ -6,7 +6,7 @@ date: 2026-10-14
 type: landing
 
 sections:
-  - block: about.biograph
+  - block: resume-biography-2
     id: bio
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
