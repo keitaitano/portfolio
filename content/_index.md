@@ -8,7 +8,6 @@ type: landing
 sections:
   - block: resume-biography-3
     id: bio
-    css_class: hide-education
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
