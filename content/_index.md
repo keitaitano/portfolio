@@ -25,7 +25,7 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
 
-    <style>
+      <style>
       /* resume-biography-3 の学歴（Education）および Interests のカード枠を強制非表示 */
       #bio .grid > div:has(.bi-mortarboard),
       #bio .grid > div:has(svg[data-icon="graduation-cap"]),
