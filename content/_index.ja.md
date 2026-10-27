@@ -39,13 +39,9 @@ sections:
       title: '📚 研究について'
       subtitle: ''
       text: |-
-        My research focuses on understanding Earth's geological processes through mineral geochemistry, isotope analysis, and data-driven approaches.
-
-        I have recently started exploring the geochemistry of seafloor mineral resources, while I continue to work on igneous petrology and the geological history of the solid Earth and surface environments.
-
-        I'm also interested in materials science, where I apply analytical chemistry and data analysis techniques shared with Earth sciences.
-
-        I'm always open to new ideas and interdisciplinary collaborations. Feel free to reach out!
+         海洋研究開発機構（JAMSTEC）の研究員として、地球化学および地球科学への機械学習の応用を専門としています。
+  鉱物の地球化学や同位体分析に加え、地質学的プロセスを理解するためのデータ駆動型アプローチに取り組んでいます。
+  高度な分析技術と機械学習を組み合わせ、地球の歴史や鉱物資源の解明を目指しています。
     design:
       columns: '1'
     
