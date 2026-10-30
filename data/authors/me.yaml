@@ -11,36 +11,34 @@ name:
 postnominals:
   - PhD
 status:
-  #icon: "☕️"
+ 
 role: Research Scientist
 bio: |
-  I am a Research Scientist at JAMSTEC, specializing in geochemistry and the application of machine learning to Earth sciences.
-  My research focuses on mineral geochemistry, isotope analysis, and data-driven approaches to understanding geological processes.
-  I am passionate about integrating advanced analytical techniques with machine learning to explore Earth's history and mineral resources.
+ I am a Research Scientist at JAMSTEC, specializing in geochemistry and the application of machine learning to Earth sciences.
+ My work integrates mineral geochemistry, isotope analysis, and data-driven approaches to understand geological processes spanning the solid Earth, surface environments, and Earth's history.
+ 
+ In addition to my core work in igneous petrology and solid Earth systems, I also pursue cross-disciplinary applications in materials science through shared analytical chemistry and data analysis techniques.
+ I am always open to new ideas and interdisciplinary collaborations. Feel free to reach out!  
+
 
 affiliations:
   - name: Japan Agency for Marine-Earth Science and Technology/JAMSTEC
     url: https://www.jamstec.go.jp/j/
 
 links:
-  - icon: at-symbol
-    url: mailto:k.itano@jamstec.go.jp
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/rubeus_k
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0003-2382-8698
+  - icon: academicons/google-scholar
+    url:  https://scholar.google.co.jp/citations?user=VrTRarsAAAAJ&hl=ja&oi=ao
   - icon: brands/github
     url: https://github.com/keitaitano
   - icon: brands/linkedin
     url: https://jp.linkedin.com/in/keita-itano-58a475294
-  - icon: academicons/google-scholar
-    url:  https://scholar.google.co.jp/citations?user=VrTRarsAAAAJ&hl=ja&oi=ao
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0003-2382-8698
+  - icon: brands/x
+    url: https://x.com/rubeus_k  
 
-interests:
-  - Geochronology
-  - Geochemistry
-  - Machine Learning
+
+interests: []
 
 education:
   - degree: Ph.D.
@@ -64,10 +62,6 @@ experience:
     start: 2026-04-01
     summary: |
       Starting to conduct geochemical research on seafloor mineral resources.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
   - role: Assistant Professor
     org: Akita Univeristy, Japan
     start: 2021-10-01

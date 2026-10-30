@@ -13,8 +13,29 @@ sections:
       username: me
       text: ''
 
+      news:
+        - date: '2026.12.01'
+          text: 'Scheduled to give a presentation at The 17th Symposium on Polar Science'
+        - date: '2026.10.30'
+          text: 'Layout updated'
+        - date: '2026.10.15'
+          text: 'Website launched'
+        - date: '2026.10.01'
+          text: 'Published a new co-authored paper on material science.'
+          link: './publications/matelials2026/'
+      
       headings:
-        about: ''
+        about: 'About Me'
+      
+      design:
+        name:
+          size: md
+        avatar:
+          size: small
+          shape: circle
+        spacing:
+          padding: ['0px', '0px', '0px', '0px']
+        css_style: 'min-height: 0 !important; height: auto !important;'
 
       # Name heading sizing to accommodate long or short names
       name:
@@ -24,21 +45,14 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-    
-  - block: markdown
+  
+  - block: publication-tags
+    id: publication-tags
     content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        My research focuses on understanding Earth's geological processes through mineral geochemistry, isotope analysis, and data-driven approaches.
-
-        I have recently started exploring the geochemistry of seafloor mineral resources, while I continue to work on igneous petrology and the geological history of the solid Earth and surface environments.
-
-        I'm also interested in materials science, where I apply analytical chemistry and data analysis techniques shared with Earth sciences.
-
-        I'm always open to new ideas and interdisciplinary collaborations. Feel free to reach out!
-    design:
-      columns: '1'
+      title: 'Research Topics'
+      design:
+    spacing:
+      padding: ['0px', '0', '0px', '0']
     
   - block: collection
     id: papers
@@ -51,6 +65,8 @@ sections:
     design:
       view: article-grid
       columns: 2
+      spacing: 
+        padding: ['0px', '0', '0px', '0']
 
   - block: cta-card
     demo: true # Only display this section in the HugoBlox Kit demo site

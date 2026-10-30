@@ -1,0 +1,63 @@
+
+{{/* Publication Tags - Custom HugoBlox Block */}}
+
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+{{ $title := "Research Topics" }}
+{{ with $block.content }}
+  {{ with .title }}
+    {{ $title = . }}
+  {{ end }}
+{{ end }}
+
+{{ $tags := hugo.Sites.Default.Taxonomies.tags }}
+
+{{ with $tags }}
+<section class="py-0 px-4">
+  <div class="max-w-7xl mx-auto">
+
+    <h2 class="text-3xl font-bold text-gray-900 dark:text-white mb-4">
+      {{ $title }}
+    </h2>
+
+    <p class="text-gray-600 dark:text-gray-400 mb-8">
+      Explore publications by research topic.
+    </p>
+
+    <div class="flex flex-wrap gap-3">
+
+      {{ range .Alphabetical }}
+
+        {{/* Only count pages in publications */}}
+        {{ $pubs := where .Pages "Section" "publications" }}
+
+        {{ if gt (len $pubs) 0 }}
+          <a href="{{ .Page.RelPermalink }}"
+             class="inline-flex items-center gap-2
+                    px-4 py-2 rounded-lg border
+                    border-gray-200 dark:border-gray-700
+                    bg-white dark:bg-gray-800
+                    text-gray-800 dark:text-gray-200
+                    hover:text-primary-600
+                    hover:border-primary-400
+                    dark:hover:text-primary-400
+                    transition-colors">
+
+            <span class="font-medium">
+              {{ .Page.LinkTitle }}
+            </span>
+
+            <span class="text-sm text-gray-500 dark:text-gray-400">
+              {{ len $pubs }}
+            </span>
+
+          </a>
+        {{ end }}
+
+      {{ end }}
+
+    </div>
+  </div>
+</section>
+{{ end }}

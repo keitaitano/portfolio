@@ -1,0 +1,90 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: 板野敬太
+  given: Keita
+  family: Itano
+  alternate: '板野敬太'  # Example: 王伟
+  pronunciation: ''  # Example: Wáng Wěi
+  pronouns: he/him
+postnominals:
+  - PhD
+status:
+  #icon: "☕️"
+role: 副主任研究員
+bio: |
+  地球化学および機械学習の地球科学への応用を専門に研究しています。鉱物地球化学、同位体分析、そしてデータ駆動型アプローチを融合させ、固体地球から表層環境、さらには地球史に至る多様な地質プロセスの解明に取り組んでいます。
+  
+  火成岩岩石学や固体地球システムを中心とした研究に加え、共通の分析化学やデータ解析技術を活かし、材料科学分野への学際的な研究にも取り組んでいます。新しいアイデアや分野横断的な共同研究を歓迎しています。ぜひお気軽にご連絡ください！
+
+
+affiliations:
+  - name: 海洋研究開発機構 / JAMSTEC
+    url: https://www.jamstec.go.jp/j/
+
+links:
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0003-2382-8698
+  - icon: academicons/google-scholar
+    url:  https://scholar.google.co.jp/citations?user=VrTRarsAAAAJ&hl=ja&oi=ao
+  - icon: brands/github
+    url: https://github.com/keitaitano
+  - icon: brands/linkedin
+    url: https://jp.linkedin.com/in/keita-itano-58a475294
+  - icon: brands/x
+    url: https://x.com/rubeus_k  
+  - icon: hero/pencil-square
+    url: 'https://monazite.hatenablog.com/'
+    label: 'Blog'
+
+
+education:
+  - degree: 博士 (理学)
+    institution: 東京大学  大学院理学系研究科  地球惑星科学専攻
+    start: 2016-04-01
+    end: 2019-03-31
+    summary: |
+      モナザイトからたどる地殻進化
+  - degree: 修士 (理学)
+    institution:  東京大学  大学院理学系研究科  地球惑星科学専攻
+    start: 2014-04-01
+    end: 2016-03-31
+  - degree: B.Sc. 
+    institution: 東京大学  理学部  地球惑星環境学科
+    start: 2010-04-01
+    end: 2014-03-31
+
+experience:
+  - role: 副主任研究員
+    org: 海洋研究開発機構 (JAMSTEC)
+    start: 2026-04-01
+    summary: |
+      海底資源研究プログラムに所属
+    
+  - role: 助教
+    org: 秋田大学
+    start: 2021-10-01
+    end: 2026-3-31
+    summary: |
+     数理科学コースでデータサインエンスの授業を担当.  地球化学データへ機械学習を応用した研究を行う.
+  - role: 客員研究員
+    org: グラナダ大学, スペイン
+    start: 2022-10-01
+    end: 2024-9-31
+    summary: |
+      ガラス溶融実験や二次イオン質量分析を学ぶ.
+  - role: ポスドク (日本学術振興会特別研究員)
+    org: 金沢大学
+    start: 2019-4-01
+    end: 2021-9-31
+    summary: |
+     岩石学について学ぶ.
+
+awards:
+  - title: 奨励賞
+    awarder: 日本地球化学会
+    date: "2024-09"
+    summary: 副成分鉱物の局所分析を用いた地殻進化に関する研究で受賞.
+    icon: hero/trophy
+

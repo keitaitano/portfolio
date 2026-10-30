@@ -1,0 +1,16 @@
+main:
+  - name: 'プロフィール'
+    url: '#bio'
+    weight: 10
+
+  - name: '論文'
+    url: '#publication-tags'
+    weight: 20
+    
+  - name: '経歴'
+    pageRef: '/experience'
+    weight: 30
+
+  - name: 'プロジェクト'
+    pageRef: '/projects'
+    weight: 40

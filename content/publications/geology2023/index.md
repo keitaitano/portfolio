@@ -25,7 +25,6 @@ Overview: "The two zircon U–Pb age ranges of a hornblende peridotite from the 
 
 tags:
   - Accessory Minerals
-  - Mafic Magma
   - Geochemistry
   - Geochronology
 

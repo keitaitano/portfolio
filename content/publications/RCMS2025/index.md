@@ -24,8 +24,7 @@ abstract: "Applying Gaussian process regression (GPR), a nonparametric probabili
 
 tags:
   - Machine Learning
-  - SIMS
-  - Analytical chemistry
+  - Mass Spectrometry
 
 featured: true
 

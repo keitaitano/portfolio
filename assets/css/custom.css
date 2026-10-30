@@ -1,0 +1,21 @@
+
+/* Biography: reduce vertical spacing */
+section#bio {
+  padding-top: 24px !important;
+  padding-bottom: 8px !important;
+  min-height: 0 !important;
+  height: auto !important;
+}
+
+/* Research Topics: reduce vertical spacing */
+section#publication-tags {
+  padding-top: 8px !important;
+  padding-bottom: 16px !important;
+  min-height: 0 !important;
+  height: auto !important;
+}
+
+/* Featured Publications: top spacing */
+section#papers {
+  padding-top: 24px !important;
+}

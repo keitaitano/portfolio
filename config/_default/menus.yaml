@@ -8,7 +8,7 @@ main:
     url: '/#bio'
     weight: 10
   - name: Papers
-    url: '/#papers'
+    url: '/#publication-tags'
     weight: 11
   - name: Experience
     url: '/experience/'
@@ -17,17 +17,3 @@ main:
     url: '/projects/'
     weight: 30
 
-# 日本語メニュー
-main.ja:
-  - name: 自己紹介
-    url: '#bio'          # ← 日本語トップ内にいるなら '#bio' だけでその位置へ飛びます
-    weight: 10
-  - name: 論文
-    url: '#papers'       # ← 同様に '#papers' で飛びます
-    weight: 11
-  - name: 経歴
-    url: 'experience/'   # ← 先頭の '/ja/' や '/' は付けず 'experience/' にします
-    weight: 20
-  - name: プロジェクト
-    url: 'projects/'     # ← 先頭のスラッシュを外します
-    weight: 30

@@ -6,18 +6,36 @@ date: 2026-10-14
 type: landing
 
 sections:
-  - block: resume-biography
+  - block: resume-biography-3
     id: bio
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: ''
-      # Show a call-to-action button under your biography? (optional)
- 
+
+      news:
+        - date: '2026.12.01'
+          text: '極地研のシンポジウムで発表予定です'
+        - date: '2026.10.30'
+          text: 'レイアウトを更新しました'
+        - date: '2026.10.15'
+          text: 'Webサイト始めました'
+        - date: '2026.10.01'
+          text: '材料科学に関する共著論文でました'
+          link: './publications/matelials2026/'
+      
       headings:
-        about: '自己紹介'
-        education: false
-        interests: '専門分野'
+        about: 'About Me'
+      
+      design:
+        name:
+          size: md
+        avatar:
+          size: small
+          shape: circle
+        spacing:
+          padding: ['0px', '0px', '0px', '0px']
+        css_style: 'min-height: 0 !important; height: auto !important;'
 
       # Name heading sizing to accommodate long or short names
       name:
@@ -27,22 +45,20 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-    
-  - block: markdown
+  
+  - block: publication-tags
+    id: publication-tags
     content:
-      title: '📚 研究について'
-      subtitle: ''
-      text: |-
-         海洋研究開発機構（JAMSTEC）の研究員として、地球化学および地球科学への機械学習の応用を専門としています。
-         鉱物の地球化学や同位体分析に加え、地質学的プロセスを理解するためのデータ駆動型アプローチに取り組んでいます。
-         高度な分析技術と機械学習を組み合わせ、地球の歴史や鉱物資源の解明を目指しています。
-    design:
-      columns: '1'
+      title: '研究トピック'
+      design:
+    spacing:
+      padding: ['0px', '0', '0px', '0']
+  
     
-  - block: collection
+  - block: featured-publications-en
     id: papers
     content:
-      title: Featured Publications
+      title: 'イチオシ論文'
       filters:
         folders:
           - publications
@@ -50,6 +66,8 @@ sections:
     design:
       view: article-grid
       columns: 2
+      spacing: 
+        padding: ['0px', '0', '0px', '0']
 
   - block: cta-card
     demo: true # Only display this section in the HugoBlox Kit demo site
