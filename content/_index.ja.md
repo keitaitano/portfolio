@@ -3,7 +3,6 @@
 title: 'Keita Itano'
 summary: '板野敬太（Keita Itano）のポートフォリオ。JAMSTEC所属。地球化学、同位体地球化学、鉱物分析、データ駆動地球科学に関する研究、論文などの紹介。'
 date: 2026-10-14
-date: 2026-10-14
 type: landing
 
 sections:
