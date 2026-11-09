@@ -16,6 +16,9 @@ sections:
       news:
         - date: '2026.12.01'
           text: 'Scheduled to give a presentation at The 17th Symposium on Polar Science'
+        - date: '2026.11.01'
+          text: 'Published a new co-authored paper on ancient peridotites.'
+          link: './publications/GeosciFrontiers2026/'
         - date: '2026.10.30'
           text: 'Layout updated'
         - date: '2026.10.15'

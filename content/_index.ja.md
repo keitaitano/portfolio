@@ -16,6 +16,9 @@ sections:
       news:
         - date: '2026.12.01'
           text: '極地研のシンポジウムで発表予定です'
+        - date: '2026.11.01'
+          text: '太古代カンラン岩中オリビンに関する共著論文でました'
+          link: './publications/GeosciFrontiers2026/'
         - date: '2026.10.30'
           text: 'レイアウトを更新しました'
         - date: '2026.10.15'
